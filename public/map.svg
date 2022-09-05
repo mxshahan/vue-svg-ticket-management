@@ -1,0 +1,391 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1269.642"
+   height="850"
+   viewBox="0 0 1269.642 850"
+   preserveAspectRatio="xMinYMin meet"
+   version="1.1"
+   id="svg58"
+   sodipodi:docname="test_circle.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs62" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     id="namedview60"
+     showgrid="false"
+     inkscape:zoom="1.1105882"
+     inkscape:cx="911.81906"
+     inkscape:cy="450.21186"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="123456"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="1234566"
+     label="non_clickable">
+    <rect
+       id="svgEditorBackground"
+       x="0"
+       y="0"
+       width="1240"
+       height="850"
+       style="fill:none;stroke:none" />
+    <path
+       d="M 0,-4 -4,0 0.0659,4.2014 4.2317,0.2333 Z"
+       style="vector-effect:non-scaling-stroke;fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+       id="e1_shape"
+       transform="matrix(-25.7883,-10.6823,25.437,-10.9479,593.708,136.787)"
+       inkscape:connector-curvature="0" />
+    <text
+       dy="-0.5em"
+       style="font-size:20px;font-family:Arial;fill:#000000"
+       id="e3_text"
+       transform="matrix(1.85324,0,0,1,-362.933,-35)">
+      <textPath
+         id="e2_textPath"
+         xlink:href="#e1_shape">Stage</textPath>
+    </text>
+    <text
+       dy="-0.5em"
+       style="font-size:20px;font-family:Arial;fill:#000000"
+       id="e5_text" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1px"
+       id="e7_polyline"
+       points="373 199 615 255 901 192" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:1px"
+       id="e3_polyline"
+       points="380,347,622,403,908,340" />
+    <rect
+       x="916.07794"
+       y="463.07791"
+       style="fill:#8b0000;stroke:#000000;stroke-width:1.15582716px"
+       id="e14_rectangle"
+       width="352.98611"
+       height="183.84418" />
+  </g>
+  <g
+     id="g1142"
+     label="clickable">
+    <g
+       class="Area"
+       label="Parterre"
+       id="g1443">
+      <g
+         class="Row"
+         label="1"
+         id="g1925">
+        <circle
+           class="seat"
+           label="1"
+           id="e8_circle"
+           cx="1258.9884"
+           cy="285.73877"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e16_circle"
+           cx="720.67627"
+           cy="351.78867"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e1_circle"
+           cx="409"
+           cy="257"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e2_circle"
+           cx="994.11884"
+           cy="344.98221"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e3_circle"
+           cx="1518.3137"
+           cy="242.88287"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+      </g>
+      <g
+         class="Row"
+         label="2"
+         id="g1926">
+        <circle
+           id="e9_circle"
+           cx="1232.182"
+           cy="575.73511"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e10_circle"
+           cx="382.1936"
+           cy="546.99634"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e11_circle"
+           cx="967.31244"
+           cy="634.97858"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e12_circle"
+           cx="1491.5073"
+           cy="532.87921"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e4_circle"
+           cx="696.55902"
+           cy="629.8526"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+      </g>
+    </g>
+    <g
+       class="Area"
+       id="g14433"
+       label="Loge"
+       transform="matrix(1.0144194,0,0,1,-13.265399,0)">
+      <g
+         class="Row"
+         label="1"
+         id="g1927">
+        <circle
+           id="e7_circle"
+           cx="1703.0173"
+           cy="827.24475"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+
+           id="e13_circle"
+           cx="2141.9192"
+           cy="827.49713"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e21_circle"
+           cx="1939.4005"
+           cy="822.37115"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+		<path
+    	 style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+    	 d="m 1186.7585,492.53178 c 29.714,-4.50212 48.6229,-1.80085 48.6229,-1.80085 l 11.7055,11.70551 c 0,0 4.5021,14.40678 5.4025,20.70975 0.9004,6.30296 -9.0042,21.61017 -9.0042,21.61017 l -28.8136,1.80084 -14.4068,-9.00423 -14.4067,-20.70975 z" id="path889" inkscape:connector-curvature="0" />
+      </g>
+      <g
+         class="Row"
+         label="2"
+         id="g1928">
+        <circle
+           id="e14_circle"
+           cx="1727.3865"
+           cy="1017.3267"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e15_circle"
+           cx="2156.5417"
+           cy="1032.2007"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <circle
+           id="e25_circle"
+           cx="1946.7104"
+           cy="1027.0746"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:1px"
+           r="77.339996"
+           transform="matrix(0.41035,0,0,0.41035,252.874,173.247)" />
+        <rect
+           x="1190.9711"
+           y="568.27258"
+           style="fill:#bc8f8f;stroke:#000000;stroke-width:2.79946876px"
+           id="e18_rectangle"
+           width="54.21748"
+           height="57.819176"
+           inkscape:transform-center-x="87.873685"
+           inkscape:transform-center-y="447.7311" />
+      </g>
+    </g>
+    <g
+       id="123456"
+       label="non_clickable">
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="418"
+         y="281"
+         id="e9_texte">1</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="545"
+         y="324"
+         id="e10_texte">2</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="655"
+         y="323"
+         id="e11_texte">3</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="762"
+         y="298"
+         id="e12_texte">4</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="868"
+         y="280"
+         id="e13_texte">5</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="407"
+         y="400"
+         id="e14_texte">1</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="534"
+         y="443"
+         id="e15_texte">2</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="644"
+         y="442"
+         id="e16_texte">3</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="751"
+         y="417"
+         id="e17_texte">4</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="857"
+         y="399"
+         id="e18_texte">5</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="945"
+         y="518"
+         id="e19_texte">1</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="1040"
+         y="519"
+         id="e22_texte">2</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="1126"
+         y="519"
+         id="e21_texte">3</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="955"
+         y="595"
+         id="e23_texte">1</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="1044"
+         y="604"
+         id="e26_texte">2</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="1132"
+         y="605"
+         id="e25_texte">3</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="243"
+         y="281"
+         id="e27_texte"
+         xml:space="preserve">Reihe 1</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="249"
+         y="412"
+         id="e28_texte"
+         xml:space="preserve">Reihe 2</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="286"
+         y="166"
+         id="e29_texte">Rang1</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="294"
+         y="341"
+         id="e2_texte">Rang2</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="826"
+         y="524"
+         id="e3_texte"
+         xml:space="preserve">Reihe 1</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="825"
+         y="603"
+         id="e4_texte"
+         xml:space="preserve">Reihe 2</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="1216.3477"
+         y="604.94189"
+         id="e25_texte-0">4</text>
+      <text
+         style="font-size:20px;font-family:Arial;fill:#000000"
+         x="1213.9686"
+         y="524.0014"
+         id="e25_texte-0-7">4</text>
+    </g>
+  </g>
+</svg>
